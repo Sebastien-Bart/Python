@@ -1,6 +1,6 @@
 BART Sébastien / KROL Mikolaï / ELABDALLAH Mohammed
 
-# Projet labyrinthe
+# Projet labyrinthe (2018)
 
 
 ### Construire «à la main» des labyrinthes de dimension données
